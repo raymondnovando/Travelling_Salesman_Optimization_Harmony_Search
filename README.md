@@ -1,6 +1,7 @@
 Solving the Travelling Salesman Problem in Python 
 ===================
 ## Implemented techniques
+* __Harmony Search__
 * __Genetic Algorithm__
 * __Simulated Annealing__
 * __PSO: Particle Swarm Optimization__
